@@ -1,0 +1,12 @@
+.continue-shopping-wrapper {
+    display: inline;
+}
+
+html .woocommerce .continue-shopping-wrapper a.button {
+/*    height: 17px; */
+text-align: center;
+}
+
+.woocommerce .woocommerce-message .button.wc-forward {
+    display: none;
+}
